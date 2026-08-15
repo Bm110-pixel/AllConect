@@ -1,0 +1,6 @@
+{
+  "name": "allConnect",
+  "description": "Universal smart device hub and manager to discover, connect, control, and identify devices, their manufacturers, and their purposes without separate apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
